@@ -1,0 +1,272 @@
+canonical_identifier: bkk:krp/KR6i0079/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0079/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 維摩義記
+  identifiers:
+    krp: KR6i0079
+    cbeta: T38n1776
+    cbeta_old_id: T38n1776
+    authorityid: CA0003314
+    json_key: T1776
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T38/T38n1776.xml
+    old_id: T38n1776
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0079_000-T.yaml, hash: 'sha256:5b5bd00a1f06526d11d784df3c0c9fe3043e1a117d10b44cda96d8ba46d21ba8'}
+  - {seq: 2, filename: KR6i0079_002-T.yaml, hash: 'sha256:473f60446b4a921c933b7bdb78ed73b5646e49d1f309f31af05373ddf85004b3'}
+  - {seq: 3, filename: KR6i0079_003-T.yaml, hash: 'sha256:feb7c6e102d8989caed0c7cd79e67de216d339b10ef85abfe9f7cba417483fa3'}
+  - {seq: 4, filename: KR6i0079_004-T.yaml, hash: 'sha256:6f15641da61d56ccd71d02c92da51b2ee3f31530b7cdbefdff9f75d0260e6fb5'}
+  - {seq: 5, filename: KR6i0079_005-T.yaml, hash: 'sha256:5c93580a1e51a98f96030b78480fd8154efd0c4322ed1da6d7e03449d3ac3490'}
+  - {seq: 6, filename: KR6i0079_006-T.yaml, hash: 'sha256:40492c84b05e26822de0fcea1a3eaee5999d3d2a1d4a888da5ea588724dbaadc'}
+  - {seq: 7, filename: KR6i0079_007-T.yaml, hash: 'sha256:0e2786546113325253af11d063e3a6fd9246e845103c626ce06c4a110d94e678'}
+  - {seq: 8, filename: KR6i0079_008-T.yaml, hash: 'sha256:1162a801656e3faeb37b72e192173ea2f5a1edac74e6d9dbf1f74d31c5919aaf'}
+  - {seq: 9, filename: KR6i0079_009-T.yaml, hash: 'sha256:e242f40daa7171f76db71fdd59cae4031fccfbc0a3eb71bb378ce7dbe0e8427c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0079_000-T.markers.yaml, hash: 'sha256:0d290d91e2f4b4be35ec4d1b24e1a2a00fc41bc53528c484f4bd07f1b1060b98'}
+  - {seq: 2, role: markers, filename: assets/KR6i0079_002-T.markers.yaml, hash: 'sha256:d02f6e356cb7e3a1aff186f1337da90b4feaff7f44aced57a3fcf34fff0afce3'}
+  - {seq: 3, role: markers, filename: assets/KR6i0079_003-T.markers.yaml, hash: 'sha256:c006514014039c9268fbf9c434aaca823ccc37ff8afb87effdf662e13e5078e0'}
+  - {seq: 4, role: markers, filename: assets/KR6i0079_004-T.markers.yaml, hash: 'sha256:34d7502ea5ae51beac6f85f542b185bde3186be24c1861f62f8bc78f7b5f402e'}
+  - {seq: 5, role: markers, filename: assets/KR6i0079_005-T.markers.yaml, hash: 'sha256:bc3f208a174ed1e2bb5d6e445aa8387b838a06be55a463627614c17bdbe7eb73'}
+  - {seq: 6, role: markers, filename: assets/KR6i0079_006-T.markers.yaml, hash: 'sha256:99fdd466cfdd410957b7fe323f957f42dc1b8c93cf1e3c7430464f1555389004'}
+  - {seq: 7, role: markers, filename: assets/KR6i0079_007-T.markers.yaml, hash: 'sha256:7f9b0fba99d684f903db219e8b5007b0f9abc27a9e6ec0ea4cc6f842a34d7325'}
+  - {seq: 8, role: markers, filename: assets/KR6i0079_008-T.markers.yaml, hash: 'sha256:f64ab1e3ecbc0fbc31b445e07d64ecbc73e586f088469114536dfdbd796c271c'}
+  - {seq: 9, role: markers, filename: assets/KR6i0079_009-T.markers.yaml, hash: 'sha256:e56d73e575d60ac66222d8b270e87452683ca70b1548a6df9d4286e1dd7aedfe'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0079_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 刊維摩經義記序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0079_T_001a-juan-start
+    span:
+    - body
+    - 0
+    - 17488
+  label: 維摩義記卷第一本
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0079_T_001a-mulu-1
+    span:
+    - body
+    - 1800
+    - 1800
+  label: 1 佛國品(一本-一末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0079_T_001b-juan-start
+    span:
+    - body
+    - 0
+    - 17294
+  label: 維摩義記卷第一末
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0079_T_001b-mulu-1
+    span:
+    - body
+    - 9670
+    - 9670
+  label: 2 方便品(一末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0079_T_002a-juan-start
+    span:
+    - body
+    - 0
+    - 18872
+  label: 維摩義記卷第二本
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0079_T_002a-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 3 弟子品(二本-二末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0079_T_002b-juan-start
+    span:
+    - body
+    - 0
+    - 19148
+  label: 維摩義記卷第二末
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0079_T_002b-mulu-1
+    span:
+    - body
+    - 3531
+    - 3531
+  label: 4 菩薩品(二末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0079_T_002b-mulu-2
+    span:
+    - body
+    - 16928
+    - 16928
+  label: 5 文殊師利問疾品(二末-三本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0079_T_003a-juan-start
+    span:
+    - body
+    - 0
+    - 18532
+  label: 維摩義記卷第三本
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0079_T_003a-mulu-1
+    span:
+    - body
+    - 9247
+    - 9247
+  label: 6 不思議品(三本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0079_T_003a-mulu-2
+    span:
+    - body
+    - 13894
+    - 13894
+  label: 7 觀眾生品(三本-三末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0079_T_003b-juan-start
+    span:
+    - body
+    - 0
+    - 18527
+  label: 維摩義記卷第三末
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0079_T_003b-mulu-1
+    span:
+    - body
+    - 4533
+    - 4533
+  label: 8 佛道品(三末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0079_T_003b-mulu-2
+    span:
+    - body
+    - 12138
+    - 12138
+  label: 9 入不二法門品(三末-四本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0079_T_004a-juan-start
+    span:
+    - body
+    - 0
+    - 18298
+  label: 維摩義記卷第四本
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0079_T_004a-mulu-1
+    span:
+    - body
+    - 4492
+    - 4492
+  label: 10 香積品(四本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0079_T_004a-mulu-2
+    span:
+    - body
+    - 10678
+    - 10678
+  label: 11 菩薩行品(四本)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0079_T_004b-juan-start
+    span:
+    - body
+    - 0
+    - 14918
+  label: 維摩義記卷第四末
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0079_T_004b-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 12 見阿閦品(四末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0079_T_004b-mulu-2
+    span:
+    - body
+    - 7238
+    - 7238
+  label: 13 法供品(四末)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0079_T_004b-mulu-3
+    span:
+    - body
+    - 13439
+    - 13439
+  label: 14 囑累品(四末)
+  type: mulu
+  level: 1
+hash: sha256:5c13e8617bbf09e3bfd97f716aa01bfbf6d5808568961f6d7a55e28f870bcf64
